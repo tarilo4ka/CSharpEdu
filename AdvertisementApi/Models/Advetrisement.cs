@@ -4,6 +4,7 @@ using AdvertisementApi.CustomValidation;
 namespace AdvertisementApi.Models;
 
 
+[CustomStartEndDateAnnotation]
 public class Advertisement
 {
     [Key]
@@ -18,8 +19,10 @@ public class Advertisement
     [Required(ErrorMessage = "Price is required")]
     public int Price { get; set; }
     [Required(ErrorMessage = "StartDate is required")]
+    [CustomStartDateAnnotation]
     public DateTime StartDate { get; set; }
     [Required(ErrorMessage = "EndDate is required")]
+    
     public DateTime EndDate { get; set; }
     [Url(ErrorMessage = "Invalid ImageUrl")]
     public string ImageUrl { get; set; }

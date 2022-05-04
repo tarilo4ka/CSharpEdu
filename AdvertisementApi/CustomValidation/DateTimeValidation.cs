@@ -2,33 +2,36 @@ using System.ComponentModel.DataAnnotations;
 using AdvertisementApi.Models;
 namespace AdvertisementApi.CustomValidation;
 
-public class CustomEndDateAnnotation : ValidationAttribute  
+public class CustomStartEndDateAnnotation : ValidationAttribute  
 {  
-    public DateTime StartDate { get; set; }
-
-    public override bool IsValid(object? endDate)
-    {
-        DateTime EndDate = Convert.ToDateTime(endDate);
-
-        if (EndDate.Year > StartDate.Year)
+    protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)  
+    {  
+        if (value == null)
         {
-            return true;
+            return new ValidationResult("StartDate is required");
         }
-        else if (EndDate.Year == StartDate.Year)
-        {
-            if (EndDate.Month > StartDate.Month)
-            {
-                return true;
-            }
-            else if (EndDate.Month == StartDate.Month)
-            {
-                if (EndDate.Day > StartDate.Day)
-                {
-                    return true;
-                }
-            }
-        }
-        return false;
-    }
+        var advertisement = (Advertisement)value;  
+        if (advertisement.StartDate > advertisement.EndDate)  
+        {  
+            return new ValidationResult("EndDate must be greater than StartDate");  
+        }  
+        return ValidationResult.Success;  
+    }  
 }  
-  
+
+public class CustomStartDateAnnotation : ValidationAttribute
+{
+    protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)  
+    {  
+        if (value == null)
+        {
+            return new ValidationResult("StartDate is required");
+        }
+        var StartDate = (DateTime)value;  
+        if (StartDate > DateTime.Today)  
+        {  
+            return new ValidationResult("StartDate must be less than or equal to today");  
+        }
+        return ValidationResult.Success;  
+    }  
+}  
