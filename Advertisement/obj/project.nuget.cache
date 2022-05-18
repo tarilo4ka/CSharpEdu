@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CYgHlPDGn7sN5WVtLv32/qmhzNBy7+Hdvwt7ktU658jNRFcohVKhMgzEVHT6MRmwtJwdT5m2DF0E6ppGRg9lug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleksii\\Desktop\\Advertisement\\Advertisement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleksii\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

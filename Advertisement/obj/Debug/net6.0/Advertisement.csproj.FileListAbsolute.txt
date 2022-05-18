@@ -1,0 +1,51 @@
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\Advertisement.exe
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\Advertisement.deps.json
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\Advertisement.runtimeconfig.json
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\ref\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\Advertisement.pdb
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.csproj.AssemblyReference.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.AssemblyInfoInputs.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.AssemblyInfo.cs
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\ref\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.pdb
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.genruntimeconfig.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\Advertisement\obj\Debug\net6.0\Advertisement.csproj.CopyComplete
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.csproj.AssemblyReference.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.AssemblyInfoInputs.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.AssemblyInfo.cs
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\ref\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.pdb
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\Advertisement.exe
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\Advertisement.deps.json
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\Advertisement.runtimeconfig.json
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\ref\Advertisement.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\Advertisement.pdb
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.csproj.CopyComplete
+C:\Users\Oleksii\Desktop\LNU prog edu\C#\practice\Advertisement\obj\Debug\net6.0\Advertisement.genruntimeconfig.cache
+C:\Users\Oleksii\Desktop\Advertisement\bin\Debug\net6.0\Advertisement.exe
+C:\Users\Oleksii\Desktop\Advertisement\bin\Debug\net6.0\Advertisement.deps.json
+C:\Users\Oleksii\Desktop\Advertisement\bin\Debug\net6.0\Advertisement.runtimeconfig.json
+C:\Users\Oleksii\Desktop\Advertisement\bin\Debug\net6.0\Advertisement.dll
+C:\Users\Oleksii\Desktop\Advertisement\bin\Debug\net6.0\Advertisement.pdb
+C:\Users\Oleksii\Desktop\Advertisement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.csproj.AssemblyReference.cache
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.AssemblyInfoInputs.cache
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.AssemblyInfo.cs
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.csproj.CopyComplete
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.dll
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\ref\Advertisement.dll
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.pdb
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\Advertisement.genruntimeconfig.cache
+C:\Users\Oleksii\Desktop\Advertisement\obj\Debug\net6.0\refint\Advertisement.dll
